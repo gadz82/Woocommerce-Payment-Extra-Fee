@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: WooCommerce Cod Fee
-Plugin URI: http://developers.overplace.com
+Plugin URI: http://webglow.it
 Description: Sovrapprezzo Pagamenti
 Version: 0.1
-Author: UT Overplace
-Author URI: http://www.overplace.com
+Author: Francesco Marchesini
+Author URI: http://www.webglow.it
 */
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
